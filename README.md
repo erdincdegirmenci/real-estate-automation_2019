@@ -1,21 +1,19 @@
-# Emlak-Otomasyonu
+# Real Estate-Automation
+Entity Framework is used in the project.
 
-Projede Entity Framework kullanılmıştır.
+User Password for New User Registration: 123
 
-Yeni Kullanıcı Kayıt İşlemleri İçin Kullanıcı Şifresi:  123<br>
+Password asked during registration Username: Admin
 
-Kayıt işlemi sırasında sorulan şifre Kullanıcı Adı: Admin<br>
-
-# Emlak Otomasyonu projesi genel olarak;
-
-Giriş Ekranı <br>
-Ana Menü ( Ev işlemlerinin yapıldığı bölüm ) <br>
-Ev Düzenleme Ekranı<br>
-Yeni Ev Ekleme Ekranı<br>
-Ev Listeleme Ve Sorgulama Ekranı<br>
-Yeni Kullanıcı Kayıt Ekranı<br>
-Müşteri Ev Satış Ekranı<br>
-Satılan veya Kiralanan Evlerin Sorgulandığı Sorgulama Ekranı<br>
+# Real Estate Automation project in general;
+Login screen
+Main Menu (Home operations section)
+Home Editing Screen
+Add New Home Screen
+House Listing and Inquiry Screen
+New User Registration Screen
+Customer Home Sales Display
+Inquiry Screen for Sold or Rented Houses
 
 
 ![emlak giris](https://user-images.githubusercontent.com/11722320/165943155-e5443bf5-a2bf-45a6-a665-30d547471119.png)
