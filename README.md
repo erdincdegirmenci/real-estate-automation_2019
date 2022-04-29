@@ -7,12 +7,19 @@ Password asked during registration Username: Admin
 
 # Real Estate Automation project in general;
 Login screen
+
 Main Menu (Home operations section)
+
 Home Editing Screen
+
 Add New Home Screen
+
 House Listing and Inquiry Screen
+
 New User Registration Screen
+
 Customer Home Sales Display
+
 Inquiry Screen for Sold or Rented Houses
 
 
